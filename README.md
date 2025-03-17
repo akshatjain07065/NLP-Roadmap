@@ -33,7 +33,7 @@
 ☐ Remove punctuation, special characters, and stopwords  
 
 ### **Word Embeddings & Text Representation**  
-☐ Learn **one-hot encoding, TF-IDF, Word2Vec, GloVe**  
+✅ Learn **one-hot encoding, TF-IDF, Word2Vec, GloVe**  
 ☐ Implement **TF-IDF** using `scikit-learn`  
 ☐ Train **Word2Vec** using `gensim`  
 
@@ -107,8 +107,8 @@
 - [One-Hot Encoding Explained](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)  
 
 🛠 **Hands-on Practice:**  
-☐ Implement one-hot encoding using `sklearn.preprocessing.OneHotEncoder`  
-☐ Write a custom Python function for one-hot encoding  
+✅ Implement one-hot encoding using `sklearn.preprocessing.OneHotEncoder`  
+✅ Write a custom Python function for one-hot encoding  
 
 ```python
 from sklearn.preprocessing import OneHotEncoder
